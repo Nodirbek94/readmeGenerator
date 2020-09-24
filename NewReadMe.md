@@ -12,26 +12,26 @@ User can use this application to generate README files for their Github Reposito
 * [Tests](#tests)
 * [Questions](#questions)
 
-##Installation
+## Installation
 User should have NPM installed before using this application
 
 
-##Usage
+## Usage
 Application will run using node in their Terminal
 
 
-##License
+## License
 MIT
 
 
-##Contributions
+## Contributions
 Anyone can contribute by just forking this repository
 
 
-##Tests
+## Tests
 Applciation was tested using NPM
 
 
-##Questions
+## Questions
 Questions about this repository? Please contact me at [nmaksudov@yahoo.com](mailto:nmaksudov@yahoo.com). View more of my work in GitHub at [undefined](https://github.com/undefined) 
 
