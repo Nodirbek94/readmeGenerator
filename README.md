@@ -4,6 +4,8 @@
 ## Description
 User can use this application to generate README files for their Github Repository
 
+Video: https://drive.google.com/file/d/12GRN7LysCzVo1AUy5wSS-BH8z6TMvKLL/view
+
 
 ## Table of Contents
 * [Installation](#installation)
