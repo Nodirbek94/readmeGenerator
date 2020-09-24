@@ -34,5 +34,5 @@ Applciation was tested using NPM
 
 
 ## Questions
-Questions about this repository? Please contact me at [nmaksudov@yahoo.com](mailto:nmaksudov@yahoo.com). View more of my work in GitHub at [undefined](https://github.com/undefined) 
+Questions about this repository? Please contact me at [nmaksudov@yahoo.com](mailto:nmaksudov@yahoo.com). View more of my work in GitHub at [https://github.com/Nodirbek94](https://github.com/Nodirbek94) 
 
